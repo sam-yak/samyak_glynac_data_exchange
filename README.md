@@ -19,7 +19,8 @@ Glynac Data Exchange operates as a middleware that connects communication platfo
 ## Getting Started  
 
 ### Prerequisites  
-- Node.js (for API server)  
+- Node.js (for API server)
+- Next.js 15  
 - Python (for AI-based processing)  
 - Slack, Microsoft 365, and Teams API credentials
   
