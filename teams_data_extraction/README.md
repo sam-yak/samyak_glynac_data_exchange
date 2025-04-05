@@ -23,18 +23,18 @@ A Python-based pipeline to extract Microsoft Teams messages via Graph API and st
 ```bash
 git clone https://github.com/sam-yak/samyak_glynac_data_exchange.git
 cd samyak_glynac_data_exchange
-
+```
 ### Create virtual environment:
 
 ```bash
 python -m venv venv
 source venv/bin/activate  # Linux/MacOS
 # venv\Scripts\activate  # Windows
-
+```
 ### Install dependencies:
 ```bash
 pip install -r requirements.txt
-
+```
 ### Configuration
 
 Create .env file:
@@ -52,14 +52,14 @@ DB_NAME=your_db_name
 DB_USER=your_db_user
 DB_PASSWORD=your_db_password
 DB_PORT=5432
-
+```
 # Usage
 
 Run full pipeline:
 
 ```bash
 python main.py
-
+```
 Individual components:
 
 ```bash
@@ -69,7 +69,7 @@ python teams_batch_extract.py
 
 # Load JSON into database
 python store_teams.py
-
+```
 # 📂 Folder Structure
 
 Copy
@@ -96,7 +96,7 @@ CREATE TABLE chat_data_field_test (
     mentioned_users TEXT,
     date_extracted TIMESTAMP
 );
-
+```
 # 🔧 Troubleshooting
 
 Common issues:
