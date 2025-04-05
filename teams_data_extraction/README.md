@@ -102,5 +102,7 @@ CREATE TABLE chat_data_field_test (
 Common issues:
 
 403 Forbidden: Verify Azure AD app permissions
+
 Database Connection Issues: Check .env credentials
+
 Empty JSON Files: Ensure target users have Teams activity
