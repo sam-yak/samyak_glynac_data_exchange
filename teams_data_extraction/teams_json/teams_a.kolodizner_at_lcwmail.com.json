@@ -1,0 +1,178 @@
+[
+  {
+    "platform": "Teams",
+    "chat_id": "1654184074536",
+    "chat_from": "Melissa Neu",
+    "channel": "Clariant Presentation Prep / General",
+    "message": "Fantastic job my friends! You're all AMAZING!! I apologize for the glitches with the PPT - there was an animation that kept throwing the deck forward. Note to self - I'll be sure to check on that next time. Thank you so much for all that you've done to make this happen.",
+    "thread_id": "None",
+    "timestamp": "2022-06-02T15:34:34.536Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:01:19.774211"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1651626737183",
+    "chat_from": "Monica Marcel",
+    "channel": "Surfacing Process Inefficiencies / General",
+    "message": "The conversation about Pain points shared with Alisa after 1:1s in Notes from emails and chats with the team has begun.",
+    "thread_id": "None",
+    "timestamp": "2022-05-04T01:12:17.183Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:01:23.190132"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1651628321990",
+    "chat_from": "Monica Marcel",
+    "channel": "Surfacing Process Inefficiencies / General",
+    "message": "Chuck Adams Alisa Kolodizner Randall Stieghorst PLEASE THE WIKI (at the top tab) -- that is where all the pain points are captured for now. I'll keep adding. Please suggest better formats for this info, as well!!",
+    "thread_id": "None",
+    "timestamp": "2022-05-04T01:38:41.99Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:01:23.190754"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1651626375297",
+    "chat_from": "Monica Marcel",
+    "channel": "Surfacing Process Inefficiencies / General",
+    "message": "The conversation about Pain points identified during Chuck's 'stay interviews' in Notes from emails and chats with the team has begun.",
+    "thread_id": "None",
+    "timestamp": "2022-05-04T01:06:15.297Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:01:23.191100"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1645543612382",
+    "chat_from": "orgid:90f29ec9-f522-454d-a0ed-907dacc33540",
+    "channel": "CRF (Content Research & Facilitation) Team / Team Meetings",
+    "message": "Where CRF Team discusses ongoing projects, priorities, strategy.",
+    "thread_id": "None",
+    "timestamp": "2022-02-22T15:26:52.382Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:01:24.991165"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1644961140902",
+    "chat_from": "Rebecca Parrilla",
+    "channel": "CRF (Content Research & Facilitation) Team / General",
+    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "thread_id": "None",
+    "timestamp": "2022-02-15T21:39:00.902Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:01:25.923536"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1664576287374",
+    "chat_from": "Alisa Kolodizner",
+    "channel": "Finances LCW Old/New / New LCW",
+    "message": "I added a tab at the top of this channel. Check it out!",
+    "thread_id": "None",
+    "timestamp": "2022-09-30T22:18:07.374Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:01:28.108836"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1664584158572",
+    "chat_from": "Jennifer Barbieri",
+    "channel": "Finances LCW Old/New / Old LCW 2022",
+    "message": "Review Profit sharing on prepaid invoices",
+    "thread_id": "None",
+    "timestamp": "2022-10-01T00:29:18.572Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:01:28.658243"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1664576907106",
+    "chat_from": "Alisa Kolodizner",
+    "channel": "Finances LCW Old/New / Old LCW 2022",
+    "message": "Reconciliation and Closing entries for Randy/Monica",
+    "thread_id": "None",
+    "timestamp": "2022-09-30T22:28:27.106Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:01:28.658423"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1723581408128",
+    "chat_from": "Alisa Kolodizner",
+    "channel": "SG and AK goal and task alignment / General",
+    "message": "I added a tab at the top of this Channel. Check it out!",
+    "thread_id": "None",
+    "timestamp": "2024-08-13T20:36:48.128Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:01:35.770936"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1723581217655",
+    "chat_from": "Alisa Kolodizner",
+    "channel": "SG and AK goal and task alignment / General",
+    "message": "Hi! Welcome to our space of Goals and Tasks",
+    "thread_id": "None",
+    "timestamp": "2024-08-13T20:33:37.655Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:01:35.771238"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1724078799175",
+    "chat_from": "Alisa Kolodizner",
+    "channel": "Alisa Goal and Task Alignment / General",
+    "message": "I added a tab at the top of this Channel. Check it out!",
+    "thread_id": "None",
+    "timestamp": "2024-08-19T14:46:39.175Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:01:38.396297"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1723751502479",
+    "chat_from": "Pedro Seminario",
+    "channel": "PS and AK Goal and Task Alignment / General",
+    "message": "Hi Sheila, Thank you for sending over this information and your plans for launching International Equity Day. We'd love to help by introducing our clients to it when the time comes. We agree that option 1 feels like the best way forward but please do keep us updated on what option you all decide on. We'd love to support you by marketing the event on our social media when the time is right. Have a wonderful week!",
+    "thread_id": "None",
+    "timestamp": "2024-08-15T19:51:42.479Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:01:39.730519"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1723751761784",
+    "chat_from": "Pedro Seminario",
+    "channel": "PS and AK Goal and Task Alignment / General",
+    "message": "Social Media Project Task: Find 5 trending topics in the DEI space that we could post about Reminders - Topics to stay away from: - Could be used as a post for LCW LinkedIn Page - Feel free to look up competitors in the space to see what topics people are interested in",
+    "thread_id": "None",
+    "timestamp": "2024-08-15T19:56:01.784Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:01:39.732077"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1723735832508",
+    "chat_from": "Alisa Kolodizner",
+    "channel": "PS and AK Goal and Task Alignment / General",
+    "message": "Hey Pedro! Let's use this team to post goals and tasks.",
+    "thread_id": "None",
+    "timestamp": "2024-08-15T15:30:32.508Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:01:39.732528"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1697057338824",
+    "chat_from": "Briza Cardenas",
+    "channel": "Exec Asst. Space / General",
+    "message": "Fireflies AI",
+    "thread_id": "None",
+    "timestamp": "2023-10-11T20:48:58.824Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:01:41.555664"
+  }
+]

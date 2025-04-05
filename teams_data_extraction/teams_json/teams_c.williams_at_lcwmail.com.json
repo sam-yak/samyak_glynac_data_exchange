@@ -1,0 +1,24 @@
+[
+  {
+    "platform": "Teams",
+    "chat_id": "1723568918176",
+    "chat_from": "Juri Mansour",
+    "channel": "The Project Management Hub / Solutions Development Status",
+    "message": "I added a tab at the top of this Channel. Check it out!",
+    "thread_id": "None",
+    "timestamp": "2024-08-13T17:08:38.176Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:02:48.208628"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1723483854189",
+    "chat_from": "Juri Mansour",
+    "channel": "The Project Management Hub / Solutions Development Status",
+    "message": "I added a tab at the top of this Channel. Check it out!",
+    "thread_id": "None",
+    "timestamp": "2024-08-12T17:30:54.189Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:02:48.208859"
+  }
+]

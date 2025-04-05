@@ -1,0 +1,35 @@
+[
+  {
+    "platform": "Teams",
+    "chat_id": "1664576287374",
+    "chat_from": "Alisa Kolodizner",
+    "channel": "Finances LCW Old/New / New LCW",
+    "message": "I added a tab at the top of this channel. Check it out!",
+    "thread_id": "None",
+    "timestamp": "2022-09-30T22:18:07.374Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:05:56.357867"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1664584158572",
+    "chat_from": "Jennifer Barbieri",
+    "channel": "Finances LCW Old/New / Old LCW 2022",
+    "message": "Review Profit sharing on prepaid invoices",
+    "thread_id": "None",
+    "timestamp": "2022-10-01T00:29:18.572Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:05:56.879765"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1664576907106",
+    "chat_from": "Alisa Kolodizner",
+    "channel": "Finances LCW Old/New / Old LCW 2022",
+    "message": "Reconciliation and Closing entries for Randy/Monica",
+    "thread_id": "None",
+    "timestamp": "2022-09-30T22:28:27.106Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T01:05:56.880131"
+  }
+]

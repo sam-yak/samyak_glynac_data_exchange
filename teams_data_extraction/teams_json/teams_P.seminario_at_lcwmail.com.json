@@ -1,0 +1,101 @@
+[
+  {
+    "platform": "Teams",
+    "chat_id": "1667927825365",
+    "chat_from": "Hannah Strack",
+    "channel": "Calendar Event Project / General",
+    "message": "- HS will create categories based on survey data in previously made excel file (complete by EOD 11/14 - follow up with Ashton for questions) -Email that describes the reason for the survey - here's our working list -Teams Channel - Training -> Articles, Tools, and Resources -We will use the Excel file that HS created to gather that data and have it in one spot (name change pending if need be)",
+    "thread_id": "None",
+    "timestamp": "2022-11-08T17:17:05.365Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T00:57:29.349162"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1667330688653",
+    "chat_from": "Ashton Vicente",
+    "channel": "Calendar Event Project / General",
+    "message": "Task List -Survey results -Wording for what we're trying to accomplish -Email ask \"does this work for you? make sense?\" -Gather responses, make changes -Input data",
+    "thread_id": "None",
+    "timestamp": "2022-11-01T19:24:48.653Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T00:57:29.350304"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1663781806033",
+    "chat_from": "Melissa Neu",
+    "channel": "Product Development / Your Ideas",
+    "message": "We should create a CCLP program for NEW DEI LEADERS. It should include partnering with peers and mentors. It could have multiple years, but the first should be hyper-focused on the frameworks needed for systems and mindsets. For example, ERG planning, L&D planning and where to start, getting buy-in from leaders, identifying internal champions, and elevating them in the workplace.",
+    "thread_id": "None",
+    "timestamp": "2022-09-21T17:36:46.033Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T00:57:32.079751"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1643816677806",
+    "chat_from": "Nicole Barile",
+    "channel": "Product Development / Your Ideas",
+    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "thread_id": "None",
+    "timestamp": "2022-02-02T15:44:37.806Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T00:57:32.080061"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1645201754670",
+    "chat_from": "Nicole Barile",
+    "channel": "Product Development / Tasks",
+    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "thread_id": "None",
+    "timestamp": "2022-02-18T16:29:14.67Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T00:57:35.640991"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1644944621660",
+    "chat_from": "Nicole Barile",
+    "channel": "Product Development / Tasks",
+    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "thread_id": "None",
+    "timestamp": "2022-02-15T17:03:41.66Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T00:57:35.641258"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1723751502479",
+    "chat_from": "Pedro Seminario",
+    "channel": "PS and AK Goal and Task Alignment / General",
+    "message": "Hi Sheila, Thank you for sending over this information and your plans for launching International Equity Day. We'd love to help by introducing our clients to it when the time comes. We agree that option 1 feels like the best way forward but please do keep us updated on what option you all decide on. We'd love to support you by marketing the event on our social media when the time is right. Have a wonderful week!",
+    "thread_id": "None",
+    "timestamp": "2024-08-15T19:51:42.479Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T00:57:40.051693"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1723751761784",
+    "chat_from": "Pedro Seminario",
+    "channel": "PS and AK Goal and Task Alignment / General",
+    "message": "Social Media Project Task: Find 5 trending topics in the DEI space that we could post about Reminders - Topics to stay away from: - Could be used as a post for LCW LinkedIn Page - Feel free to look up competitors in the space to see what topics people are interested in",
+    "thread_id": "None",
+    "timestamp": "2024-08-15T19:56:01.784Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T00:57:40.052546"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1723735832508",
+    "chat_from": "Alisa Kolodizner",
+    "channel": "PS and AK Goal and Task Alignment / General",
+    "message": "Hey Pedro! Let's use this team to post goals and tasks.",
+    "thread_id": "None",
+    "timestamp": "2024-08-15T15:30:32.508Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T00:57:40.052770"
+  }
+]
