@@ -72,7 +72,7 @@ python store_teams.py
 ```
 # 📂 Folder Structure
 ```bash
-Copy
+teams_data_extraction
 ├── teams_json/          # Extracted Teams messages (JSON)
 ├── auth_token.py        # Microsoft Graph authentication
 ├── extract_messages.py  # Core extraction logic
