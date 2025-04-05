@@ -71,7 +71,7 @@ python teams_batch_extract.py
 python store_teams.py
 ```
 # 📂 Folder Structure
-
+```bash
 Copy
 ├── teams_json/          # Extracted Teams messages (JSON)
 ├── auth_token.py        # Microsoft Graph authentication
@@ -80,7 +80,7 @@ Copy
 ├── store_teams.py       # Database insertion
 ├── main.py              # Main pipeline
 └── config.py            # Configuration loader
-
+```
 # 🗄️ Database Schema
 
 ```sql
